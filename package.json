@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "version": "glyphhanger --version",
-    "test": "glyphhanger foobar.html --json"
+    "test": "glyphhanger foobar.html"
   },
   "author": "",
   "license": "ISC",
