@@ -1,0 +1,15 @@
+{
+  "name": "glyphhanger-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "version": "glyphhanger --version",
+    "test": "glyphhanger foobar.html --json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glyphhanger": "^3.0.3"
+  }
+}
